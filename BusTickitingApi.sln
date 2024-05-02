@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTickitingApi", "BusTickitingApi\BusTickitingApi.csproj", "{0ECE64E3-2E59-41DF-9A53-E2E22F2BB08B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ECE64E3-2E59-41DF-9A53-E2E22F2BB08B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECE64E3-2E59-41DF-9A53-E2E22F2BB08B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECE64E3-2E59-41DF-9A53-E2E22F2BB08B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECE64E3-2E59-41DF-9A53-E2E22F2BB08B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C05040F4-6586-4A61-BAC1-F1F7B4349808}
+	EndGlobalSection
+EndGlobal
